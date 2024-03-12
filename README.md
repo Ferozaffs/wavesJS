@@ -1,4 +1,4 @@
-# waveJS
+# wavesJS
 GLSL shader lab, using ThreeJS.
 
 ## Sources
